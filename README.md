@@ -74,33 +74,39 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d9ef367e-9d2f-478e-8407-f840543d91a8" />
 
 
   **MODEL GRAPH:**
 
 
   **TABULATION:**
- 
+ <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f6bfcfe9-9b49-4901-824c-e0ecfc20358d" />
+
 
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f51ccffc-0a51-4544-a4f3-41561f109f23" />
 
   **MODEL GRAPH:**
 
 
   **TABULATION:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/35362d44-77a5-429e-a021-316330c992ad" />
 
   **BPF:**
   **CIRCUIT DIAGRAM**
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/db231129-fefc-4783-8864-fd4e32fefc7d" />
 
   **MODEL GRAPH:**
 
 
   **TABULATION:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/98732fd1-4047-4837-a52d-77789e47d57b" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -110,10 +116,15 @@ Let Ri = Rf = 10 KΩ
 •	Save the file by giving file name.
 •	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
- 
+ <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/038be983-8c71-4ab0-8801-6495edbbe451" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/31cc41fe-94ed-4f1f-9ece-1313bdd4784e" />
+
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/86e6c699-f79e-4f07-89c4-937ffe343466" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/7e8375a5-23f9-4428-a9cd-8c198b092e05" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ff99b99d-74e7-4b68-8419-f592fb90c8d2" />
+
 
 **RESULT:**
 Thus the Active Low pass, High pass and Band Pass Filters are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
